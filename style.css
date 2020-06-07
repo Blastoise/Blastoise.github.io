@@ -632,7 +632,6 @@ footer {
     width: 100%;
     height: 100%;
     padding: 0px;
-    border: 1px solid green;
   }
 
   .project1,
@@ -645,7 +644,6 @@ footer {
     justify-content: space-around;
     align-items: center;
     padding-right: 5px;
-    border: 1px solid pink;
   }
 
   .project1 img {
@@ -664,12 +662,10 @@ footer {
     justify-content: flex-start;
     position: relative;
     color: white;
-    border: 1px solid green;
   }
   .project-intro h3 {
     padding: 8px;
     font-family: "Open Sans", sans-serif;
-    border: 1px solid blue;
   }
   .project-intro p {
     color: gray;
@@ -678,13 +674,11 @@ footer {
     margin-bottom: 10px;
     font-family: "Open Sans", sans-serif;
     font-size: 15px;
-    border: 1px solid yellow;
   }
   .brief {
     position: static;
     color: grey;
     font-family: "Open Sans", sans-serif;
-    border: 1px solid red;
   }
   .fab {
     color: grey;
@@ -970,7 +964,6 @@ footer {
     width: 100%;
     height: 100%;
     padding: 0px;
-    border: 1px solid green;
   }
 
   .project1,
@@ -983,7 +976,6 @@ footer {
     justify-content: space-around;
     align-items: center;
     padding-right: 5px;
-    border: 1px solid pink;
   }
 
   .project1 img {
@@ -1002,12 +994,10 @@ footer {
     justify-content: flex-start;
     position: relative;
     color: white;
-    border: 1px solid green;
   }
   .project-intro h3 {
     padding: 5px;
     font-family: "Open Sans", sans-serif;
-    border: 1px solid blue;
   }
   .project-intro p {
     color: gray;
@@ -1016,13 +1006,11 @@ footer {
     margin-bottom: 5px;
     font-family: "Open Sans", sans-serif;
     font-size: 15px;
-    border: 1px solid yellow;
   }
   .brief {
     position: static;
     color: grey;
     font-family: "Open Sans", sans-serif;
-    border: 1px solid red;
   }
   .fab {
     color: grey;
@@ -1045,7 +1033,6 @@ footer {
     justify-content: flex-start;
     position: relative;
     color: white;
-    border: 1px solid green;
   }
   .project3 img {
     width: 20%;
@@ -1063,7 +1050,6 @@ footer {
     justify-content: flex-start;
     position: relative;
     color: white;
-    border: 1px solid green;
   }
   .skill-container h2 {
     font-size: 20px;
