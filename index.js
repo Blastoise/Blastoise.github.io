@@ -3,6 +3,9 @@
 window.addEventListener("load", () => {
   const preload = document.querySelector(".preload");
   preload.classList.add("preload-finish");
+  const universe = document.querySelector(".universe-start");
+  universe.classList.add("universe");
+  universe.classList.remove("universe-start");
 });
 
 const navSlide = function () {
